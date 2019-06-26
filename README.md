@@ -1,9 +1,9 @@
 ## test 
 
 
-[Click](javascript:alert(1))
+[Click-1](javascript:alert(1))
 
-[Click](https://www.google.com)
+[Click-2](https://www.google.com)
 
 
 
