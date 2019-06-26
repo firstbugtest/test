@@ -7,7 +7,7 @@
 
 [![alt text][image]][hyperlink]
 
-  [hyperlink]: javascript:alert(1)
+  [hyperlink]: https://www.google.com
   [image]: https://www.gravatar.com/avatar/…?s=128&d=identicon&r=PG (tooltip)
 
 
