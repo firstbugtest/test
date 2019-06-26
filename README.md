@@ -7,7 +7,7 @@
 
 [![alt text][image]][hyperlink]
 
-  [hyperlink]: https://meta.stackoverflow.com/users/44330/jason-s
+  [hyperlink]: javascript:alert(1)
   [image]: https://www.gravatar.com/avatar/…?s=128&d=identicon&r=PG (tooltip)
 
 
